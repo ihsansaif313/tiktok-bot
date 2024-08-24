@@ -14,6 +14,12 @@
 
 <br/>
 
+
+## 💼 Sponsors
+
+These sponsors have paid to be placed here and beyond that I do not have any affiliation with them, the TikTok-Bot repo will always be free and open-source. If you wish to be a sponsor of this project, contact me@vd7.io
+<!-- This project is sponsored by [SadCaptcha](https://sadcaptcha.com) - Solving TikTok Captchas for bot developers and web scrapers. -->
+
 ## Table of Contents
 
   <ol>
@@ -52,8 +58,8 @@ I created this for my business <b>[Scorphx](https://scorphx.shop)</b> to take ad
 ### Steps
 
 1. Clone repo:
-   <pre>git clone https://github.com/vdutts7/scorphx-tiktok-automation-bot </pre>
-   <pre>cd scorphx-tiktok-automation-bot</pre>
+   <pre>git clone https://github.com/vdutts7/tiktok-bot </pre>
+   <pre>cd tiktok-bot</pre>
 2. Install modules:
    <pre>pip install -r scorphx-algo-reqs.txt</pre>
 3. Run the `.py` file:
@@ -88,6 +94,7 @@ _\*from POV of a non-coder looking for absolute convenience_
 [![python][python]][python-url]
 
 <br/>
+
 
 ## 👤Contact
 
