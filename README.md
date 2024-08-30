@@ -18,7 +18,24 @@
 ## 💼 Sponsors
 
 These sponsors have paid to be placed here and beyond that I do not have any affiliation with them, the TikTok-Bot repo will always be free and open-source. If you wish to be a sponsor of this project, contact me@vd7.io
-<!-- This project is sponsored by [SadCaptcha](https://sadcaptcha.com) - Solving TikTok Captchas for bot developers and web scrapers. -->
+
+
+This project is sponsored by [SadCaptcha](https://sadcaptcha.com) - Solving TikTok Captchas for bot developers and web scrapers.
+
+<div align="center">
+  <hr>
+  <a href="https://www.sadcaptcha.com?ref=simonfarah" target="_blank">
+    <img src="https://sadcaptcha.b-cdn.net/tiktok3d.webp" width="100" alt="TikTok Captcha Solver">
+    <img src="https://sadcaptcha.b-cdn.net/tiktokrotate.webp" width="100" alt="TikTok Captcha Solver">
+    <img src="https://sadcaptcha.b-cdn.net/tiktokpuzzle.webp" width="100" alt="TikTok Captcha Solver">
+    <img src="https://sadcaptcha.b-cdn.net/tiktokicon.webp" width="100" alt="TikTok Captcha Solver">
+    <br/>
+    <div>
+         <b>TikTok Captcha Solver: </b> Bypass any TikTok captcha in just two lines of code.
+         <br> Scale your TikTok automation and get unblocked with SadCaptcha.
+    </div>
+  </a>
+</div>
 
 ## Table of Contents
 
